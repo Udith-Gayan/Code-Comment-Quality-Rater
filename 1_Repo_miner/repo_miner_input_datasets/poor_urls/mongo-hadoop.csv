@@ -1,0 +1,10 @@
+﻿url,github
+https://github.com/10genNYUITP/mongo-hadoop/blob/master/src/main/com/mongodb/hadoop/MongoConfig.java,https://github.com/10genNYUITP/mongo-hadoop
+https://github.com/10genNYUITP/mongo-hadoop/blob/master/src/main/com/mongodb/hadoop/MongoInputFormat.java,
+https://github.com/10genNYUITP/mongo-hadoop/blob/master/src/main/com/mongodb/hadoop/MongoOutput.java,
+https://github.com/10genNYUITP/mongo-hadoop/blob/master/src/main/com/mongodb/hadoop/MongoOutputFormat.java,
+https://github.com/10genNYUITP/mongo-hadoop/blob/master/src/main/com/mongodb/hadoop/mapred/MongoInputFormat.java,
+https://github.com/10genNYUITP/mongo-hadoop/blob/master/src/main/com/mongodb/hadoop/mapred/MongoOutput.java,
+https://github.com/10genNYUITP/mongo-hadoop/blob/master/src/main/com/mongodb/hadoop/mapred/MongoOutputFormat.java,
+https://github.com/10genNYUITP/mongo-hadoop/blob/master/src/main/com/mongodb/hadoop/mapred/input/MongoInputSplit.java,
+https://github.com/10genNYUITP/mongo-hadoop/blob/master/src/main/com/mongodb/hadoop/mapred/input/MongoRecordReader.java,

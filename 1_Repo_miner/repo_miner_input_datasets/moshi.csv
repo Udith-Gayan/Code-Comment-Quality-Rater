@@ -1,0 +1,14 @@
+﻿url
+https://github.com/square/moshi/blob/master/moshi/records-tests/src/test/java/com/squareup/moshi/records/RecordsTest.java
+https://github.com/square/moshi/blob/master/moshi/src/test/java/com/squareup/moshi/AdapterMethodsTest.java
+https://github.com/square/moshi/blob/master/moshi/src/test/java/com/squareup/moshi/ClassJsonAdapterTest.java
+https://github.com/square/moshi/blob/master/moshi/src/test/java/com/squareup/moshi/JsonCodecFactory.java
+https://github.com/square/moshi/blob/master/moshi/src/test/java/com/squareup/moshi/JsonQualifiersTest.java
+https://github.com/square/moshi/blob/master/moshi/src/test/java/com/squareup/moshi/MoshiTest.java
+https://github.com/square/moshi/blob/master/moshi/src/test/java/com/squareup/moshi/TypesTest.java
+https://github.com/square/moshi/blob/master/examples/src/main/java/com/squareup/moshi/recipes/CustomAdapterFactory.java
+https://github.com/square/moshi/blob/master/examples/src/main/java/com/squareup/moshi/recipes/CustomAdapterWithDelegate.java
+https://github.com/square/moshi/blob/master/examples/src/main/java/com/squareup/moshi/recipes/DefaultOnDataMismatchAdapter.java
+https://github.com/square/moshi/blob/master/examples/src/main/java/com/squareup/moshi/recipes/FallbackEnum.java
+https://github.com/square/moshi/blob/master/examples/src/main/java/com/squareup/moshi/recipes/IncludeNullsForOneType.java
+https://github.com/square/moshi/blob/master/examples/src/main/java/com/squareup/moshi/recipes/ReadAndWriteRfc3339Dates.java
